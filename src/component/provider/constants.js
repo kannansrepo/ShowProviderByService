@@ -1,0 +1,2 @@
+export const SELECTED_PROVIDER = 'SELECTED_PROVIDER';
+export const SET_PROVIDER = 'SET_PROVIDER';

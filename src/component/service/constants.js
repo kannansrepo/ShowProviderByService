@@ -1,0 +1,2 @@
+export const SELECTED_SERVICE = 'SELECTED_SERVICE';
+export const SET_SERVICES = 'SET_SERVICES';
